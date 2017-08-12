@@ -12,4 +12,4 @@ Demo: http://meshudebnath.com/project/infinity/
 
 License
 ---------------
-**All rights reserved.**
+**&copy; 2015 Meshu Debnath, All rights reserved.**
